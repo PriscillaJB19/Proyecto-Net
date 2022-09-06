@@ -1,5 +1,5 @@
 pipeline {
-  agent {'windows-latest'}
+  agent {'Agente'}
   options {
    buildDiscarder(logRotator(numTokeepStr:'5'))
   }
