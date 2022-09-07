@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\Proyecto-Net.csproj": {}
+    "c:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\Proyecto-Net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\Proyecto-Net.csproj": {
+    "c:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\Proyecto-Net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\Proyecto-Net.csproj",
+        "projectUniqueName": "c:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\Proyecto-Net.csproj",
         "projectName": "Proyecto-Net",
-        "projectPath": "C:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\Proyecto-Net.csproj",
+        "projectPath": "c:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\Proyecto-Net.csproj",
         "packagesPath": "C:\\Users\\ana.jimenez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\obj\\",
+        "outputPath": "c:\\Users\\ana.jimenez\\Desktop\\Proyecto-Net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ana.jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
